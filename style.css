@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(107, 0, 43);
+  }
+  
+button {
+    border: none;
+    background: none;
+    outline: none;
+    width: 90px;
+    height: 90px;
+    background-color: rgb(61,6,27);
+    border-radius: 50%;
+    font-size: 52px;
+    font-family: Arial ;
+    color: rgb(143, 109, 122);
+  }
+
+span {
+    font-size: 60px;
+    margin-right: 30px;
+    margin-left: 30px;
+    font-family: calibri;
+    color: rgb(143,109,122);
+  } 
+div {
+    text-align: center;
+    margin-top: 250px;
+  }
